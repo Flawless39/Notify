@@ -313,7 +313,7 @@ nav a{
     .container{width: 90%;}
     #all, #view, nav ul{gap: 16px;}
     #title{align-items: center; padding: 0;}
-    .text{text-align: center;}
+    .text, .text-3 p, nav{text-align: center;}
     nav ul, .text p, .section, .bg-color, .text-1 p, .view input, .video, .video video, .text-2 p{width: 100%;}
     .view input, .view a{padding: 0 15px; font-size: 16px;}
     .link, .view input{height: 40px;}
