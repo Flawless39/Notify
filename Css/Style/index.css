@@ -304,8 +304,10 @@ nav a{
 @media(min-width: 768px) and (max-width: 1200px){
     .container{width: 90%;}
     #all{gap: 16px;}
+    #title{align-items: center; padding: 0;}
+    .text{text-align: center;}
     .section, .text-1, .view, .video{width: 48%;}
-    .text-1 p, .text-2 p, .view, .view input, .video video{width: 100%;}
+    .text p, .text-1 p, .text-2 p, .view, .view input, .video video{width: 100%;}
     .link a{padding: 0 20px;}
     .img{justify-content: start; overflow-x: scroll;}
 }
